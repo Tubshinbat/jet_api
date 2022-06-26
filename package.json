@@ -1,0 +1,48 @@
+{
+  "name": "husug-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server",
+    "clean": "rm -rf dist",
+    "build": "npm run clean && mkdir dist && babel / -s -d dist --copy-files",
+    "start_production": "node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "crop-node": "^2.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "express-fileupload": "^1.2.1",
+    "express-mongo-sanitize": "^2.0.2",
+    "fs": "0.0.1-security",
+    "helmet": "^4.4.1",
+    "hpp": "^0.2.3",
+    "html-entities": "^2.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^5.11.17",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "node-imager": "^0.1.5",
+    "nodemailer": "^6.6.0",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "rotating-file-stream": "^2.1.5",
+    "sharp": "^0.28.1",
+    "transliteration": "^2.2.0",
+    "xss": "^1.0.8",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5"
+  }
+}
