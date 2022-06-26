@@ -53,8 +53,8 @@ connectDB();
 var whitelist = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://ua.vercel.app",
-  "http://192.168.10.25",
+  "http://jetschool.edu.mn:3032",
+  "http://jetschool.edu.mn",
   "https://naog.lvg.mn",
   "https://naog-admin.lvg.mn",
 ];
