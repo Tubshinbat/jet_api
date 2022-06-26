@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "62b85463ac0b8252b8faa492"
+  },
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "mn": {
+    "question": "124",
+    "answer": "№-\""
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656247395579"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656247395579"
+    }
+  },
+  "__v": 0
+}]

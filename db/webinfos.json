@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "625b1d9f300e795bb1170914"
+  },
+  "email": "info@jetschool.edu.mn",
+  "phone": 77558899,
+  "mn": {
+    "name": "Жэт Олон Улсын Сургууль",
+    "address": "ХУД 4-р хороо Бэльмонте хотхон 14191 Улаанбаатар, Монгол улс",
+    "siteInfo": "Хүндэт Эцэг эхчүүд, Хайрт Хүүхдүүдээ\r\nЖэт Олон Улсын Сургууль маань эрдмийн их өргөөнийхөө үүд хаалгыг нээхэд бэлэн боллоо.",
+    "policy": "Test uilchilgeenii nuhtsul",
+    "logo": "photo_logo_jetlogo.png",
+    "whiteLogo": "photo_logo_jetlogo-white.png"
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1651763733552"
+    }
+  },
+  "__v": 0,
+  "eng": {
+    "name": "JET International School",
+    "address": "Belmonte 14191,   Khan-Uul district 4 khoroo, Ulaanbaatar, 17012, Mongolia",
+    "siteInfo": "Хүндэт Эцэг эхчүүд, Хайрт Хүүхдүүдээ\r\nЖэт Олон Улсын Сургууль маань эрдмийн их өргөөнийхөө үүд хаалгыг нээхэд бэлэн боллоо.",
+    "policy": "100 Udirdlagiin academy street, \r\n\r\nKhan-Uul district, Ulaanbaatar, 17012, Mongolia",
+    "logo": "photo_logo_jetlogo.png",
+    "whiteLogo": "photo_logo_jetlogo-white.png"
+  }
+}]

@@ -1,0 +1,525 @@
+[{
+  "_id": {
+    "$oid": "62b85e4bac0b8252b8faa530"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "mn": {
+    "name": "Бидний тухай"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656249931134"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656249931134"
+    }
+  },
+  "slug": "bidniy-tuhay1656249931135",
+  "__v": 0,
+  "position": 1
+},{
+  "_id": {
+    "$oid": "62b85e54ac0b8252b8faa537"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e4bac0b8252b8faa530",
+  "mn": {
+    "name": "Ерөнхий мэдээлэл"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656249940171"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656249940171"
+    }
+  },
+  "slug": "eronhiy-medeelel1656249940171",
+  "__v": 0,
+  "position": 1
+},{
+  "_id": {
+    "$oid": "62b85e6aac0b8252b8faa53e"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e4bac0b8252b8faa530",
+  "mn": {
+    "name": "Удирдлагын баг "
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656249962555"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656249962555"
+    }
+  },
+  "slug": "udirdlagyn-bag1656249962555",
+  "__v": 0,
+  "position": 2
+},{
+  "_id": {
+    "$oid": "62b85e72ac0b8252b8faa545"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e4bac0b8252b8faa530",
+  "mn": {
+    "name": "Захиргаа"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656249970483"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656249970483"
+    }
+  },
+  "slug": "zahirgaa1656249970484",
+  "__v": 0,
+  "position": 3
+},{
+  "_id": {
+    "$oid": "62b85e84ac0b8252b8faa54c"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e4bac0b8252b8faa530",
+  "mn": {
+    "name": "Алсын хараа, Эрхэм зорилго"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656249988019"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656249988019"
+    }
+  },
+  "slug": "alsyn-haraa-erhem-zorilgo1656249988020",
+  "__v": 0,
+  "position": 4
+},{
+  "_id": {
+    "$oid": "62b85e8fac0b8252b8faa553"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e4bac0b8252b8faa530",
+  "mn": {
+    "name": "Сургалтын орчин"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656249999715"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656249999715"
+    }
+  },
+  "slug": "surgaltyn-orchin1656249999715",
+  "__v": 0,
+  "position": 5
+},{
+  "_id": {
+    "$oid": "62b85e96ac0b8252b8faa559"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "mn": {
+    "name": "Элсэлт"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250006533"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250006533"
+    }
+  },
+  "slug": "elselt1656250006533",
+  "__v": 0,
+  "position": 2
+},{
+  "_id": {
+    "$oid": "62b85e9fac0b8252b8faa560"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e96ac0b8252b8faa559",
+  "mn": {
+    "name": "Элсэлтийн журам "
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250015259"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250015259"
+    }
+  },
+  "slug": "elseltiyn-zhuram1656250015259",
+  "__v": 0,
+  "position": 1
+},{
+  "_id": {
+    "$oid": "62b85eacac0b8252b8faa568"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e96ac0b8252b8faa559",
+  "mn": {
+    "name": "Бага ангийн элсэлт"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250028514"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250028514"
+    }
+  },
+  "slug": "baga-angiyn-elselt1656250028514",
+  "__v": 0,
+  "position": 2
+},{
+  "_id": {
+    "$oid": "62b85eb4ac0b8252b8faa56f"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e96ac0b8252b8faa559",
+  "mn": {
+    "name": "Дунд ангийн элсэлт"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250036107"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250036107"
+    }
+  },
+  "slug": "dund-angiyn-elselt1656250036107",
+  "__v": 0,
+  "position": 3
+},{
+  "_id": {
+    "$oid": "62b85ebbac0b8252b8faa577"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e96ac0b8252b8faa559",
+  "mn": {
+    "name": "Ахлах ангийн элсэлт"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250043730"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250043730"
+    }
+  },
+  "slug": "ahlah-angiyn-elselt1656250043730",
+  "__v": 0,
+  "position": 4
+},{
+  "_id": {
+    "$oid": "62b85ec5ac0b8252b8faa57f"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85e96ac0b8252b8faa559",
+  "mn": {
+    "name": "Цэцэрлэг"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250053865"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250053865"
+    }
+  },
+  "slug": "cecerleg1656250053866",
+  "__v": 0,
+  "position": 5
+},{
+  "_id": {
+    "$oid": "62b85ed9ac0b8252b8faa585"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "mn": {
+    "name": "Сургалт/Үйл ажиллагаа"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250073732"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250073732"
+    }
+  },
+  "slug": "surgalt-uyl-azhillagaa1656250073733",
+  "__v": 0,
+  "position": 3
+},{
+  "_id": {
+    "$oid": "62b85ef7ac0b8252b8faa58c"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85ed9ac0b8252b8faa585",
+  "mn": {
+    "name": "Хичээлийн дараах хүүхэд хөгжүүлэх хөтөлбөр "
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250103740"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250103740"
+    }
+  },
+  "slug": "hicheeliyn-daraah-huuhed-hogzhuuleh-hotolbor1656250103740",
+  "__v": 0,
+  "position": 2
+},{
+  "_id": {
+    "$oid": "62b85f02ac0b8252b8faa594"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85ed9ac0b8252b8faa585",
+  "mn": {
+    "name": "Жилийн календарьчилсан төлөвлөгөө "
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250114090"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250114090"
+    }
+  },
+  "slug": "zhiliyn-kalendarchilsan-tolovlogoo1656250118122",
+  "__v": 0,
+  "position": 1
+},{
+  "_id": {
+    "$oid": "62b85f0dac0b8252b8faa5a1"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85ed9ac0b8252b8faa585",
+  "mn": {
+    "name": "Автобус үйлчилгээ"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250125211"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250125211"
+    }
+  },
+  "slug": "avtobus-uylchilgee1656250125211",
+  "__v": 0,
+  "position": 3
+},{
+  "_id": {
+    "$oid": "62b85f1cac0b8252b8faa5b3"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85ed9ac0b8252b8faa585",
+  "mn": {
+    "name": "Цайны газар"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250140291"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250140291"
+    }
+  },
+  "slug": "cayny-gazar1656250140291",
+  "__v": 0,
+  "position": 4
+},{
+  "_id": {
+    "$oid": "62b85f52ac0b8252b8faa5cf"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "model": "news",
+  "mn": {
+    "name": "Мэдээ мэдээлэл"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250194620"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250194620"
+    }
+  },
+  "slug": "medee-medeelel1656250194621",
+  "__v": 0,
+  "position": 4
+},{
+  "_id": {
+    "$oid": "62b85f71ac0b8252b8faa5d6"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "mn": {
+    "name": "Эцэг эх, сурагчийн булан"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250225181"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250225181"
+    }
+  },
+  "slug": "eceg-eh-suragchiyn-bulan1656250225181",
+  "__v": 0,
+  "position": 5
+},{
+  "_id": {
+    "$oid": "62b85f7dac0b8252b8faa5dd"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85f71ac0b8252b8faa5d6",
+  "mn": {
+    "name": "Эцэг эх сурагчийн мөрдөх журам"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250237404"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250237404"
+    }
+  },
+  "slug": "eceg-eh-suragchiyn-mordoh-zhuram1656250237404",
+  "__v": 0,
+  "position": 1
+},{
+  "_id": {
+    "$oid": "62b85f88ac0b8252b8faa5e5"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62b85f71ac0b8252b8faa5d6",
+  "mn": {
+    "name": "Эцэг эхчүүдэд зориулсан зөвлөгөө "
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250248395"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250248395"
+    }
+  },
+  "slug": "eceg-ehchuuded-zoriulsan-zovlogoo-niytleluud1656250248396",
+  "__v": 0,
+  "position": 2
+},{
+  "_id": {
+    "$oid": "62b85fb1ac0b8252b8faa5f1"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "model": "contact",
+  "mn": {
+    "name": "Холбоо барих"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656250289060"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656250289060"
+    }
+  },
+  "slug": "holboo-barih1656250289061",
+  "__v": 0,
+  "position": 6
+}]

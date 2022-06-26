@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "status": true,
+  "role": "admin",
+  "email": "tuvshinbat596@gmail.com",
+  "password": "$2b$10$vCtqLUIxEH0E8h1aFzXz1OL35jS1iVzBPbJWf/1NaDtetWyhA8IsO",
+  "name": "tuvshinbat",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1645437340256"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1645437340256"
+    }
+  },
+  "__v": 0,
+  "avatar": null,
+  "phone": 89114141,
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+}]
