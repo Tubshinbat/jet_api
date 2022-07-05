@@ -53,10 +53,10 @@ connectDB();
 var whitelist = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "http://jetschool.edu.mn:3032",
-  "http://jetschool.edu.mn",
-  "https://naog.lvg.mn",
-  "https://naog-admin.lvg.mn",
+  "https://beta.queenbella.mn",
+  "https://admin.queenbella.mn",
+  "https://www.beta.queenbella.mn",
+  "https://www.admin.queenbella.mn",
 ];
 
 // Өөр домэйн дээр байрлах клиент вэб аппуудаас шаардах шаардлагуудыг энд тодорхойлно

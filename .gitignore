@@ -8,6 +8,7 @@
 # testing
 /coverage
 /log
+/public
 
 # production
 /build
