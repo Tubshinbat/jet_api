@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62c4712d24137a1958f44179"
+  },
+  "status": true,
+  "mn": {
+    "name": "Мэдээ мэдээлэл"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657041197195"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657041197195"
+    }
+  },
+  "slug": "medee-medeelel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4713424137a1958f4417e"
+  },
+  "status": true,
+  "mn": {
+    "name": "Арга хэмжээ"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657041204324"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657041204324"
+    }
+  },
+  "slug": "arga-hemzhee",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4713a24137a1958f44183"
+  },
+  "status": true,
+  "mn": {
+    "name": "Зарлал"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657041210675"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657041210675"
+    }
+  },
+  "slug": "zarlal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4714324137a1958f44188"
+  },
+  "status": true,
+  "mn": {
+    "name": "Нээлттэй ажлын байр"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657041219044"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657041219044"
+    }
+  },
+  "slug": "neelttey-azhlyn-bayr",
+  "__v": 0
+}]

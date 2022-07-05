@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "62c4834318ff21535c01c617"
+  },
+  "status": true,
+  "name": "Cambridge",
+  "link": "https://www.cambridge.org/",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657045827748"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046260687"
+    }
+  },
+  "__v": 0,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "logo": "photo_logo_cambridge-logo-@1x.png",
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c483bf18ff21535c01c6d0"
+  },
+  "status": true,
+  "name": "Jet school of English ",
+  "link": "http://jet-english.mn/",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657045951647"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046292685"
+    }
+  },
+  "__v": 0,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "logo": "photo_logo_jet.png",
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c4842e18ff21535c01c8f0"
+  },
+  "status": true,
+  "name": "cengage",
+  "link": "https://www.cengageasia.com/",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046062264"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046062264"
+    }
+  },
+  "__v": 0,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "logo": "photo_partner_2560px-Cengage-logo.svg.png"
+},{
+  "_id": {
+    "$oid": "62c4847a18ff21535c01c95d"
+  },
+  "status": true,
+  "name": "монгол улсын боловсролын яам",
+  "link": "https://www.meds.gov.mn/",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046138847"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046138847"
+    }
+  },
+  "__v": 0,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "logo": "photo_partner_5c5b823506a821ddb3199a37f984b0b8afa9a54d.webp"
+}]

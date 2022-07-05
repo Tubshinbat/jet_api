@@ -20,7 +20,8 @@
   },
   "slug": "bidniy-tuhay1656249931135",
   "__v": 0,
-  "position": 1
+  "position": 1,
+  "picture": null
 },{
   "_id": {
     "$oid": "62b85e54ac0b8252b8faa537"
@@ -44,7 +45,8 @@
   },
   "slug": "eronhiy-medeelel1656249940171",
   "__v": 0,
-  "position": 1
+  "position": 1,
+  "picture": null
 },{
   "_id": {
     "$oid": "62b85e6aac0b8252b8faa53e"
@@ -449,7 +451,8 @@
   },
   "slug": "eceg-eh-suragchiyn-bulan1656250225181",
   "__v": 0,
-  "position": 5
+  "position": 5,
+  "picture": null
 },{
   "_id": {
     "$oid": "62b85f7dac0b8252b8faa5dd"
@@ -498,28 +501,4 @@
   "slug": "eceg-ehchuuded-zoriulsan-zovlogoo-niytleluud1656250248396",
   "__v": 0,
   "position": 2
-},{
-  "_id": {
-    "$oid": "62b85fb1ac0b8252b8faa5f1"
-  },
-  "status": true,
-  "isDirect": false,
-  "isModel": true,
-  "model": "contact",
-  "mn": {
-    "name": "Холбоо барих"
-  },
-  "createAt": {
-    "$date": {
-      "$numberLong": "1656250289060"
-    }
-  },
-  "updateAt": {
-    "$date": {
-      "$numberLong": "1656250289060"
-    }
-  },
-  "slug": "holboo-barih1656250289061",
-  "__v": 0,
-  "position": 6
 }]

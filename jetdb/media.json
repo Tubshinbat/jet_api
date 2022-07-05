@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "62c47c5218ff21535c01b2d5"
+  },
+  "status": true,
+  "type": "video",
+  "pictures": [
+    "photo_1657044050169_viia1.png"
+  ],
+  "videos": [],
+  "audios": [],
+  "categories": [
+    {
+      "$oid": "62c47bcf18ff21535c01b279"
+    }
+  ],
+  "views": 0,
+  "mn": {
+    "name": "Мэндчилгээ",
+    "details": "<p style=\"text-align: center;\"><iframe style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FJetInternationalSchool%2Fvideos%2F490497489200462%2F&amp;show_text=false&amp;width=560&amp;t=0\" width=\"560\" height=\"314\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657044050157"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657044050157"
+    }
+  },
+  "slug": "mendchilgee1657044050176",
+  "__v": 1,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c47d6818ff21535c01b588"
+  },
+  "status": true,
+  "type": "video",
+  "pictures": [
+    "photo_1657044328718_2022-07-06-02-05-www.facebook.com.png"
+  ],
+  "videos": [],
+  "audios": [],
+  "categories": [
+    {
+      "$oid": "62c47bcf18ff21535c01b279"
+    }
+  ],
+  "views": 1,
+  "mn": {
+    "name": "Жэт Олон сургуулийн 3а ангийн сурагч А. Их-Оюунт",
+    "details": "<div class=\"kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql\">\r\n<div dir=\"auto\">Жэт Олон сургуулийн 3а ангийн сурагч А. Их-Оюунт</div>\r\n</div>\r\n<div class=\"cxmmr5t8 oygrvhab hcukyx3x c1et5uql o9v6fnle\">\r\n<div dir=\"auto\">Хөгжмийн зохиолч, Ардын жүжигчин Н. Жанцавноровын бүтээл &ldquo;МАНДУХАЙ СЭЦЭН ХАТАН&rdquo; киноны хөгжим</div>\r\n</div>\r\n<div class=\"cxmmr5t8 oygrvhab hcukyx3x c1et5uql o9v6fnle\">\r\n<div dir=\"auto\">А. Их-Оюунтдаа цаашдын сурах үйлсэд нь өндрөөс өндөр амжилтыг хүсье.&nbsp;</div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n</div>\r\n<p style=\"text-align: center;\"><iframe style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FJetInternationalSchool%2Fvideos%2F1015196112700536%2F&amp;show_text=true&amp;width=269&amp;t=0\" width=\"269\" height=\"591\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+    "shortDetails": "Жэт Олон сургуулийн 3а ангийн сурагч А. Их-Оюунт\r\nХөгжмийн зохиолч, Ардын жүжигчин Н. Жанцавноровын бүтээл “МАНДУХАЙ СЭЦЭН ХАТАН” киноны хөгжим\r\nА. Их-Оюунтдаа цаашдын сурах үйлсэд нь өндрөөс өндөр амжилтыг хүсье. "
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657044328714"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657044328714"
+    }
+  },
+  "slug": "zhet-olon-surguuliyn-3a-angiyn-suragch-a.-ih-oyuunt1657044328722",
+  "__v": 1,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c47de918ff21535c01b5ac"
+  },
+  "status": true,
+  "type": "video",
+  "pictures": [
+    "photo_1657044457795_asasdsacas213.png"
+  ],
+  "videos": [],
+  "audios": [],
+  "categories": [
+    {
+      "$oid": "62c47bcf18ff21535c01b279"
+    }
+  ],
+  "views": 0,
+  "mn": {
+    "name": "Жэт Олон Улсын сургуулийн Драмын дугуйлангийн сурагчдын шинэ оныг угтан тоглосон \"Ромео Жульетта\" жүжгийн хэсгээс",
+    "details": "<p style=\"text-align: center;\"><iframe style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FJetInternationalSchool%2Fvideos%2F966073440659100%2F&amp;show_text=false&amp;width=560&amp;t=0\" width=\"560\" height=\"314\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">Жэт Олон Улсын сургуулийн Драмын дугуйлангийн сурагчдын шинэ оныг угтан тоглосон \"Ромео Жульетта\" жүжгийн хэсгээс</div>\r\n<div dir=\"auto\">\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">Удирдсан багш:</div>\r\n<div dir=\"auto\"><strong>АЖ Б. Жаргалсайхан, МУГЖ Г. Урнаа</strong></div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n</div>",
+    "shortDetails": "Жэт Олон Улсын сургуулийн Драмын дугуйлангийн сурагчдын шинэ оныг угтан тоглосон \"Ромео Жульетта\" жүжгийн хэсгээс"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657044457790"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657044457790"
+    }
+  },
+  "slug": "zhet-olon-ulsyn-surguuliyn-dramyn-duguylangiyn-suragchdyn-shine-onyg-ugtan-togloson-romeo-zhuletta-zhuzhgiyn-hesgees1657044457799",
+  "__v": 1,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c47e4918ff21535c01b5d0"
+  },
+  "status": true,
+  "type": "video",
+  "pictures": [
+    "photo_1657044553958_xaxaxsaxasxa.png"
+  ],
+  "videos": null,
+  "audios": null,
+  "categories": [
+    {
+      "$oid": "62c47bcf18ff21535c01b279"
+    }
+  ],
+  "views": 5,
+  "mn": {
+    "name": "Жэт Олон Улсын Сургууль-ийн сурагчдын бүтээлүүдээс",
+    "details": "<p style=\"text-align: center;\"><iframe style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FJetInternationalSchool%2Fvideos%2F718546136177642%2F&amp;show_text=false&amp;width=560&amp;t=0\" width=\"560\" height=\"314\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<div class=\"kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql\">\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">Жэт Олон Улсын Сургуулийн сурагчдын бүтээлүүдээс Дүрслэх урлаг гэдэг нь зургаар дамжуулан өөрт байгаа бүтээлч сэтгэлгээг дүрслэн гаргахыг хэлнэ.</div>\r\n</div>\r\n<div class=\"cxmmr5t8 oygrvhab hcukyx3x c1et5uql o9v6fnle\">\r\n<div dir=\"auto\">Та хүүхдийнхээ бүтээлч сэтгэхүйг хөгжүүлэхийн тулд урлагтай ойр байлгаарай&nbsp;</div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n</div>",
+    "shortDetails": "Дүрслэх урлаг гэдэг нь зургаар дамжуулан өөрт байгаа бүтээлч сэтгэлгээг дүрслэн гаргахыг хэлнэ.\r\n"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657044553935"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657044553935"
+    }
+  },
+  "slug": "zhet-olon-ulsyn-surguul-iyn-suragchdyn-buteeluudees1657044553960",
+  "__v": 1,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c47ece18ff21535c01b619"
+  },
+  "status": true,
+  "type": "video",
+  "pictures": [
+    "photo_1657044686494_2022-07-06-02-11-www.facebook.com.png"
+  ],
+  "videos": [],
+  "audios": [],
+  "categories": [
+    {
+      "$oid": "62c47baa18ff21535c01b274"
+    }
+  ],
+  "views": 0,
+  "mn": {
+    "name": "Familyday дугаар1",
+    "details": "<p style=\"text-align: center;\"><iframe style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FJetInternationalSchool%2Fvideos%2F685559812745788%2F&amp;show_text=false&amp;width=476&amp;t=0\" width=\"476\" height=\"476\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\">Ах нарын хамгийн амь болсон хүн нь эмэгтэй дүү нь байдаг даа. Яг л манай Цанаа, Буянаа 2 шиг. Өөрөө янз бүрээр шоглож, шоолж байдаг ч хэзээ ч дүүгээ бусдад дээрэлхүүлдэггүй, хайртай гэж хэлэхгүй мөртлөө үйлдэл бүрээрээ хайртайгаа илэрхийлж байдаг, ахдаа хэлнэ шүү гээд эрхлээд, цаанаа л нэг бардам байдаг, ахтай хүн чинь азтай хүн.</div>\r\n<div dir=\"auto\">Мундаг ах нартаа хайртайгаа хэлээрэй&nbsp;</div>\r\n<div dir=\"auto\">&nbsp;</div>\r\n<div dir=\"auto\" style=\"text-align: center;\">Бүх гэр бүлүүддээ Олон Улсын гэр бүлийн өдрийн мэндийг хүргэе.</div>",
+    "shortDetails": "Ах нарын хамгийн амь болсон хүн нь эмэгтэй дүү нь байдаг даа. Яг л манай Цанаа, Буянаа 2 шиг"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657044686491"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657044686491"
+    }
+  },
+  "slug": "familyday-dugaar11657044686496",
+  "__v": 1,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+}]

@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "62c4872718ff21535c01d4f4"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "mn": {
+    "name": "Бидний тухай"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046823458"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046823458"
+    }
+  },
+  "slug": "bidniy-tuhay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4873218ff21535c01d4fa"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62c4872718ff21535c01d4f4",
+  "mn": {
+    "name": "Бидний тухай"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046834316"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046834316"
+    }
+  },
+  "slug": "bidniy-tuhay",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4874518ff21535c01d500"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62c4872718ff21535c01d4f4",
+  "mn": {
+    "name": "Элсэлт"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046853819"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046853819"
+    }
+  },
+  "slug": "elselt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4877318ff21535c01d510"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "parentId": "62c4872718ff21535c01d4f4",
+  "model": "contact",
+  "mn": {
+    "name": "Холбоо барих"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046899724"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046899724"
+    }
+  },
+  "slug": "holboo-barih",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c4878b18ff21535c01d560"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "mn": {
+    "name": "Мэдээлэл"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046923532"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046923532"
+    }
+  },
+  "slug": "medeelel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c487b818ff21535c01d649"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "parentId": "62c4878b18ff21535c01d560",
+  "model": "news",
+  "mn": {
+    "name": "Мэдээ мэдээлэл"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046968981"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046968981"
+    }
+  },
+  "slug": "medee-medeelel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c487c418ff21535c01d681"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "parentId": "62c4878b18ff21535c01d560",
+  "mn": {
+    "name": "Нээлттэй ажлын байр"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657046980566"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657046980566"
+    }
+  },
+  "slug": "neelttey-azhlyn-bayr",
+  "__v": 0
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62c47baa18ff21535c01b274"
+  },
+  "status": true,
+  "mn": {
+    "name": "FamilyDay"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657043882672"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657043882672"
+    }
+  },
+  "slug": "familyday",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c47bcf18ff21535c01b279"
+  },
+  "status": true,
+  "mn": {
+    "name": "JET International School"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1657043919889"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1657043919889"
+    }
+  },
+  "slug": "jet-international-school",
+  "__v": 0
+}]
